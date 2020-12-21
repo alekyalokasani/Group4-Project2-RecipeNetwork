@@ -1,0 +1,4 @@
+.alluserrecipes {
+  display: flex;
+  overflow-x: scroll;
+}
